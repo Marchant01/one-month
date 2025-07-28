@@ -990,3 +990,6 @@ dist-ssr
 *.njsproj
 # *.sln
 *.sw?
+
+# Database file
+one-month.db
