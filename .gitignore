@@ -994,6 +994,8 @@ dist-ssr
 # Database file
 one-month.db
 
-# Client Modules
+# Client Node Modules
+node_modules/
+dist/
 client/node_modules/
 client/dist/
